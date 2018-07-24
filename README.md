@@ -1,2 +1,2 @@
 # PIMphonyHelper
-Tool to automatically center PIMphony main window
+Tool to automatically center PIMphony main window on screen.
